@@ -2,7 +2,7 @@
 
 00. Fundamentals $~$ ✅
 01. Workflow $~$ ✅
-02. Classification
+02. Classification $~$ ✅
 03. CV
 04. Dataset
 05. Going_Modular
