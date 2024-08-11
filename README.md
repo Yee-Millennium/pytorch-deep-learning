@@ -1,7 +1,7 @@
 # Notebooks
 
 00. Fundamentals $~$ ✅
-01. Workflow
+01. Workflow $~$ ✅
 02. Classification
 03. CV
 04. Dataset
