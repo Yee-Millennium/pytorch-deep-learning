@@ -3,8 +3,8 @@
 00. Fundamentals $~$ ✅
 01. Workflow $~$ ✅
 02. Classification $~$ ✅
-03. CV
-04. Dataset
+03. CV $~$ ✅
+04. Dataset $~$ ✅
 05. Going_Modular
 06. Transfer_Learning
 07. Experiment_Tracking
